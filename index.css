@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(21, 245, 84);
+    color: white;
+    height: 66px;
+}
+.content{
+    font-family: 'Times New Roman', Times, serif;
+}
+.container{
+    width: 66pw;
+    margin: auto;
+    padding: 12px 0;
+
+}
+.logo{
+    padding: 0 30px;
+}
+.logo img {
+    width: 30px;
+}
